@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "485115347563",
+    "project_id": "practicalexam-fa32d",
+    "storage_bucket": "practicalexam-fa32d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485115347563:android:e65c4fbc3867aa135fa72e",
+        "android_client_info": {
+          "package_name": "com.example.practical_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485115347563-5nmiagu37du210iddib348ds5r523s8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.practical_exam",
+            "certificate_hash": "a53d5913b8a591959b6b7ab1529c6937a1ade070"
+          }
+        },
+        {
+          "client_id": "485115347563-9lb6btgh3q44betsko3985mp5n45e60l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3HaCLuiVO_wNPduSH0CGadmuIhmb8fms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485115347563-9lb6btgh3q44betsko3985mp5n45e60l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
