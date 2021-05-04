@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:practical_exam/google_signin.dart';
 import 'package:practical_exam/screen/homeScreen.dart';
-import 'package:provider/provider.dart';
-import 'login.dart';
 
 void main() {
   runApp(MyApp());
