@@ -1,18 +1,18 @@
 final data = [
   {
     'id': 'y1',
-    'name': 'Sukhasan',
+    'name': 'Mango',
     'url':
-        'https://www.artofliving.org/sites/www.artofliving.org/files/styles/original_image/public/wysiwyg_imageupload/2-Yoga-Poses----Sitting-%2C-standing%2C-recumbent_0.jpg.webp?itok=huipTsN9',
+        'https://www.mango.org/wp-content/uploads/2018/05/reapening-storing-about.jpg',
     'detail':
-        "This is an amazing one for beginners as it gives one the desired comfort. The asana is beyond the horizons of the physical dimension and gives a spiritual bliss. Sukhasana is best to reduce anxiety and stress and mental tiredness. It corrects the body posture and stretches the chest and spine.Tip: Sit with the legs tucked inside the opposite thighs and the spine should be vertically straight. The hands should be placed on the knees and breathe in and out gently.",
+        "A mango is a stone fruit produced from numerous species of tropical trees belonging to the flowering plant genus Mangifera, cultivated mostly for their edible fruit. Most of these species are found in nature as wild mangoes.",
   },
   {
     'id': 'y2',
-    'name': 'Naukasana',
+    'name': 'apple',
     'url':
-        'https://www.artofliving.org/sites/www.artofliving.org/files/styles/original_image/public/wysiwyg_imageupload/3-Yoga-Poses----Sitting-%2C-standing%2C-recumbent.jpg.webp?itok=wO9dcux-',
+        'https://i.pinimg.com/originals/d9/68/c2/d968c2fe95629e238b04ee34599c5013.jpg',
     'detail':
-        "This is one of the easy asanas. This asana stretches the abdominal muscles and it improves digestion and reduces belly fat. It is good to improve the efficiency of abdominal muscles.Tip: One needs to lie on one’s back with legs together and the hands-on the thighs, without touching them. Then the body should make a 30-degree angle.",
+        "An apple is an edible fruit produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. ",
   },
 ];
